@@ -1,0 +1,11 @@
+{
+  "name": "shoaib-autonex-marketplace",
+  "owner": { "name": "Shoaib Autonex" },
+  "plugins": [
+    {
+      "name": "n8n-agents",
+      "source": "./",
+      "description": "n8n workflow-building agent team: orchestrator, planner, builder, auditor"
+    }
+  ]
+}
