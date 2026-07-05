@@ -1,0 +1,7 @@
+{
+  "name": "n8n-agents",
+  "version": "1.0.0",
+  "description": "n8n workflow-building agent team: orchestrator, planner, builder, auditor",
+  "author": { "name": "Shoaib Autonex" },
+  "components": { "agents": ["agents/"] }
+}
